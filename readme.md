@@ -1,4 +1,4 @@
-# RC-ESRIDUMP-AZURE
+# RC-ESRIDUMP-AZURE [REPO BACKUP] 
 **rc-esridump-azure** je mini aplikace pro export dat o uzavírkách na silnicích a dálnících ze serverů [ŘSD](https://geoportal.rsd.cz/web) ve formátu [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON). Zdrojová data ŘSD vystavuje ve formě REST API ArcGis serveru na [https://geoportal.rsd.cz/arcgis/rest/](https://geoportal.rsd.cz/arcgis/rest/) a je možné tam najít kromě uzavírek u kupu dalších zajímavostí. A bohužel, kupa dalších dat není veřejně přístupná.
 
 ## API
